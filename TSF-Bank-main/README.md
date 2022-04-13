@@ -33,9 +33,9 @@ Made with basic HTML, CSS, JavaScript and backend with PHP.
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jayesh-dhobe/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2021 Jigar Sable
+© 2021 Jayesh Dhobe
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
